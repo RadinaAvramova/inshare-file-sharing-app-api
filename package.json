@@ -2,7 +2,7 @@
   "name": "file-sharing",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "dev": "nodemon server",
     "serve": "node server"
